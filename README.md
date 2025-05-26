@@ -51,10 +51,4 @@ A modern, interactive event calendar built with React and TypeScript. Features i
 - UUID
 - Lucide React icons
 
-## Local Storage
 
-<<<<<<< HEAD
-Events are automatically saved to your browser's local storage, ensuring your data persists between sessions.
-=======
-Events are automatically saved to your browser's local storage, ensuring your data persists between sessions.
->>>>>>> 1814e05f2ec5d9c6608bd079217cb4dd0b8d7a1c
